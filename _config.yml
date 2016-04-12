@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Andrew Yang"
 title: "{ Andrew Yang }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Blog and website of Andrew Yang, blogging mainly for tech. Opinions expressed are mine."
+keywords: "yang, andrew, personal"
 favicon: "/img/favicon.ico"
 
 ################
@@ -134,7 +134,7 @@ email: "andrewyang1995@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Andrew Yang is a third year UCSD Computer Science student."
 author_blurb_image: "/img/author.png"
 
 ##################
